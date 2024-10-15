@@ -39,7 +39,7 @@ void cls() {
 }
 
 int add() {
-    int x, y;
+    int x, y, // edited
     cls();
     cout<<"ADD\n";
     cout<<"Enter first number to add: ";
